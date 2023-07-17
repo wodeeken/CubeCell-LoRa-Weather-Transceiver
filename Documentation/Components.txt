@@ -1,0 +1,14 @@
+Components Used
+1. HelTec CubeCell HTCC-AB01
+    https://www.amazon.com/gp/product/B07ZHCMFW4/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+    Cost as of 07/2023: 19.99
+2. BMP390 Temperature and Pressure Sensor
+    https://www.amazon.com/Precision-Barometric-Pressure-Altimeter-Arduino/dp/B08SQ7RCSV
+    Cost as of 07/2023: 14.99
+3. LoRa Flag Antenna
+    https://www.amazon.com/Wide-Band-Internal-LoRa-Antenna/dp/B08WJQ7ZS3
+    Cost as of 07/2023: 5.57
+5. 3.7V 80 mAh Batteries (2)
+    https://www.amazon.com/gp/product/B0B3MQB9YQ
+    Cost as of 07/2023: 11.99
+
